@@ -31,7 +31,7 @@ User data protection is very important to us. Login credentials are authenticate
 
 You can download chit Chat UwU from our website at https://github.com/Michaelray14/ChitChatUwU. Let us know if you have any other questions!
 
-
+<div className="vertical-spacer"></div>
 
 <h1>Getting Started with Chit Chat UwU</h1> <h2>1. Download and Install</h2>
 Go to [yourdomain.com] and download the latest version of Multistream Chat.
