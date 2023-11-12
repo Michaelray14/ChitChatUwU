@@ -29,7 +29,7 @@ User data protection is very important to us. Login credentials are authenticate
 
 <h2>Where can I download and learn more?</h2>
 
-You can download chit Chat UwU from our website at https://github.com/Michaelray14/ChitChatUwU. Let us know if you have any other questions!
+You can download Chit Chat UwU from our website at https://github.com/Michaelray14/ChitChatUwU. Let us know if you have any other questions!
 
 <div className="vertical-spacer"></div>
 <div className="vertical-spacer"></div>
