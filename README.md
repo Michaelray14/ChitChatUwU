@@ -23,7 +23,7 @@ Yes, users have full control over enabled chats. You can toggle chats on/off for
 
 Moderator capabilities are limited to what the native platforms allow through their APIs. Moderators can hide, delete, timeout, and ban users directly through the Multistream Chat interface and it will sync across connected platforms. But advanced mod tools may need to be accessed through the individual platforms.
 
-<h2>Is my data secure when I log in through Multistream Chat?</h2>
+<h2>Is my data secure when I log in through Chit Chat UwU?</h2>
 
 User data protection is very important to us. Login credentials are authenticated via HTTPS and access tokens are encrypted and stored locally only. Chat message data is pulled on-demand and not stored. We do not collect any personal user data.
 
