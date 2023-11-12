@@ -1,7 +1,7 @@
 # Chit Chat UwU
 Multistream Chat
 
-<h1>Frequently Asked Questions</h1>
+# Frequently Asked Questions
 
 <h2>What is a Multistream Chat?</h2>
 
