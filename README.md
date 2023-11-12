@@ -33,9 +33,9 @@ You can download chit Chat UwU from our website at https://github.com/Michaelray
 
 
 
-## Getting Started with Chit Chat UwU 
+##Getting Started with Chit Chat UwU 
 <h2>1. Download and Install</h2>
-Go to [yourdomain.com] and download the latest version of Multistream Chat.
+Go to https://github.com/Michaelray14/ChitChatUwU and download the latest version of Multistream Chat.
 Run the installer and follow the prompts to install Multistream Chat.
 <h2>2. Log Into Streaming Accounts</h2>
 Open Chit Chat UwU and click "Settings"
